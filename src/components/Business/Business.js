@@ -7,7 +7,7 @@ class Business extends React.Component {
         const { business } = this.props;
 
         return (
-            <div class="Business">
+            <div className="Business">
                 <div className="image-container">
                     <img src='https://s3.amazonaws.com/codecademy-content/programs/react/ravenous/pizza.jpg' alt=''/>
                 </div>
