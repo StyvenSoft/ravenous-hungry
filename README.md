@@ -9,7 +9,7 @@ In total, there will be four parts to this project:
 - Creating Static Components
 - Passing Information to Components
 - Setting the State of Ravenous Components
-- Interacting with the Yelp API
+- Interacting with the Yelp API https://www.yelp.com/seeyousoon
 - Today, you will start by building the first part of Ravenous: Creating Static Components.
 
 Here’s a quick overview of how Ravenous should function:
@@ -29,6 +29,8 @@ Finally, a few notes before getting started:
 
 
 ## Let’s get started!
+
+![screencapture](./src/screencapture.jpg)
 
 ### Available Scripts
 
