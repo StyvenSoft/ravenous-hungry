@@ -1,5 +1,7 @@
 # BUILDING FRONT-END APPLICATIONS WITH REACT
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d000b8bb-67d7-44a3-b481-00ec6a83002c/deploy-status)](https://app.netlify.com/sites/trusting-turing-ac21cc/deploys)
+
 **Create Project & Components**
 
 Welcome to the first installment of the Ravenous project! Over the next couple of weeks, you’ll build a website called “Ravenous Hungry”, a Yelp-like clone.
